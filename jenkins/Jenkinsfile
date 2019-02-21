@@ -42,4 +42,12 @@ pipeline {
             }
         }
     }
+    post {
+        success {
+
+        }
+        failure {
+            
+        }
+    }
 }
